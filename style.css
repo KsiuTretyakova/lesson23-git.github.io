@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    max-width: 1000px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* align-content: flex-start; */
+    margin: auto;
+    padding: 0;
+}
+
+.foto {
+    width: 300px;
+    padding: 5px;
+}
